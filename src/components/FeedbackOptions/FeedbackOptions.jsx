@@ -24,8 +24,4 @@ FeedbackOptions.propTypes = {
 
 
 
-{
-  /* <button type='button' onClick={this.handleClickGood}>Good</button>
-      <button type='button' onClick={this.handleClickNeutral}>Neutral</button>
-      <button type='button' onClick={this.handleClickBad}>Bad</button> */
-}
+
